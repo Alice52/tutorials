@@ -1,0 +1,18 @@
+[submodule "kotlin-tutorial"]
+	path = kotlin-tutorial
+	url = git@github.com:Alice52/kotlin-tutorial.git
+[submodule "go-tutorial"]
+	path = go-tutorial
+	url = git@github.com:Alice52/go-tutorial.git
+[submodule "java-tutorials"]
+	path = java-tutorials
+	url = git@github.com:Alice52/java-tutorials.git
+[submodule "python-tutorial"]
+	path = python-tutorial
+	url = git@github.com:Alice52/python-tutorial.git
+[submodule "c-tutorial"]
+	path = c-tutorial
+	url = git@github.com:Alice52/c-tutorial.git
+[submodule "vue-tutorial"]
+	path = vue-tutorial
+	url = git@github.com:Alice52/vue-tutorial.git
