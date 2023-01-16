@@ -1,0 +1,43 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "tutorials"
+    },
+    {
+      "path": "c-tutorial",
+      "name": "c-tutorial"
+    },
+    {
+      "path": "go-tutorial",
+      "name": "go-tutorial"
+    },
+    {
+      "path": "java-tutorials",
+      "name": "java-tutorials"
+    },
+    {
+      "path": "python-tutorial",
+      "name": "python-tutorial"
+    },
+    {
+      "path": "vue-tutorial",
+      "name": "vue-tutorial"
+    },
+    {
+      "path": "kotlin-tutorial",
+      "name": "kotlin-tutorial"
+    },
+  ],
+  "settings": {
+    "files.exclude": {
+      "c-tutorial": true,
+      "go-tutorial": true,
+      "java-tutorials": true,
+      "python-tutorial": true,
+      "vue-tutorial": true,
+      "kotlin-tutorial": true,
+      "repo.code-workspace": false
+    }
+  }
+}

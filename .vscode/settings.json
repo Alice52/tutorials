@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "c-tutorial": true,
+    "go-tutorial": true,
+    "java-tutorials": true,
+    "python-tutorial": true,
+    "vue-tutorial": true,
+    "kotlin-tutorial": true,
+    "repo.code-workspace": false
+  }
+}
